@@ -46,9 +46,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 Register Number:212223040228
+
 Name: THIRISHA A
 
 # Program :
+
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
@@ -73,6 +75,7 @@ print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Output : 
+
 ![image](https://github.com/thirisha-0610/Mean-and-Variance/assets/149347494/8476c844-02be-4639-9380-87ea4b0d7848)
 
 # Results :

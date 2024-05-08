@@ -50,7 +50,7 @@ Register Number:212223040228
 Name: THIRISHA A
 
 # Program :
-
+```
 import numpy as np
 
 L=[int(i) for i in input().split()]
@@ -95,7 +95,7 @@ print("The Variance of arrival from feeder is %.3f "%var)
 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
-
+```
 # Output : 
 
 ![image](https://github.com/thirisha-0610/Mean-and-Variance/assets/149347494/8476c844-02be-4639-9380-87ea4b0d7848)
